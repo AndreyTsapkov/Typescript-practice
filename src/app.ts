@@ -82,3 +82,9 @@ const page2: Page = {
   accounts: ["Alex"],
   status: "close",
 };
+
+class Key {}
+
+class Person {}
+
+abstract class House {}
